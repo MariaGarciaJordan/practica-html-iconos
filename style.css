@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(112, 106, 106); 
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    float: left;
+    margin-right: 10px;
+}
+table {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+td {
+    margin-top: auto;
+}
+
+p {
+   text-align: justify; 
+   font-size: xx-large;
+}
